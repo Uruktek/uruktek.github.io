@@ -12,10 +12,10 @@ function time() {
     min = updateTime(min);
     sec = updateTime(sec);
 
-    document.getElementById("clock").innerText = hour + " : " + min + " : " + sec;
+    document.getElementById("clock").innerText = hour + ":" + min + ":" + sec;
 
     let t = setTimeout(function() {time()}, 1000);
-    console.log("tick");
+    
 
 }
 
