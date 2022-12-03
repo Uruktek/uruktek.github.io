@@ -6,7 +6,7 @@ body {
 #clock {
     font-family: 'Orbitron', sans-serif;
     color: #66ff99;
-    font-size: 200px;
+    font-size: 10vw;
     text-align: center;
     align-self: center;
     margin: 0;
@@ -20,7 +20,7 @@ body {
   #date {
     font-family: 'Orbitron', sans-serif;
     color: #66ff99;
-    font-size: 125px;
+    font-size: 10vw;
     text-align: top;
     margin: 0;
     position: absolute;
@@ -31,7 +31,7 @@ body {
   #dateText {
     font-family: 'Orbitron', sans-serif;
     color: #66ff99;
-    font-size: 150px;
+    font-size: 10vw;
     text-align: bottom;
     margin: 0;
     position: absolute;
